@@ -1,4 +1,4 @@
-#Wed Mar 17 21:36:45 NPT 2021
+#Wed Mar 17 21:55:50 NPT 2021
 base.0=D\:\\TwoActivitiesLifecycle\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
